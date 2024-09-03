@@ -149,7 +149,7 @@ void usage(void)
     printf("    hxdump <file/filepath> <arguments> <flags>\n");
     printf("\n");
     printf("    arguments:\n");
-    printf("     -h         prints usage (what you are currently reading)\n");
+    printf("     -h         prints this message\n");
     printf("     -l <num>   changes size of line\n");
     printf("\n");
     printf("    flags:\n");
