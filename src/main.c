@@ -198,7 +198,6 @@ int main(int argc, char**argv)
 
     // reaching this point means the file *should* be valid, congratulations!
 
-
     // flag parsing
     unsigned char mode = MODE_BINARY;
     bool col = true;
