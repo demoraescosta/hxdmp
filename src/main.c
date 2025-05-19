@@ -146,7 +146,7 @@ bool hexdump(FILE* file, size_t line_size, unsigned char mode, bool col_indicies
 void usage(void)
 {
     printf("Usage:\n");
-    printf("    hxdump <file/filepath> <arguments> <flags>\n");
+    printf("    hxdmp <file/filepath> <arguments> <flags>\n");
     printf("\n");
     printf("    arguments:\n");
     printf("     -h         prints this message\n");
