@@ -11,7 +11,7 @@ any platform.
 
 ### Usage
 
-    hxdump <file/filepath> <arguments> <flags>
+    hxdmp <file/filepath> <arguments> <flags>
 
     arguments:
      -h         prints usage (what you are currently reading)
